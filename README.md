@@ -1,4 +1,4 @@
-# Profit_Analysis_Forecast_Dashboard
+# Profit_Analysis_Forecast_Dashboard_Using_Tableau
 
 In my role as a Data Science consultant with 10Alytics, I had the amazing chance to spearhead a project that culminated in the creation of a dynamic Sales Performance Dashboard using Tableau.
 
